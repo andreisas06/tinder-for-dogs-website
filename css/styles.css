@@ -95,7 +95,7 @@ p {
 /* Testimonial Section */
 
 #testimonials {
-    
+
     text-align: center;
     background-color: #ef8172;
     color: white;
@@ -124,6 +124,11 @@ p {
 
 /* Pricing section */
 
-.card-deck{
-    margin: 5%;
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
