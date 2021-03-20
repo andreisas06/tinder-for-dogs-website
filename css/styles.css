@@ -68,14 +68,21 @@ p {
 /* Title image */
 
 .title-image {
-    width: 60%;
-    transform: rotate(25deg);
+    width: 50%;
+    transform: rotate(20deg);
+    z-index: 1;
+    position: absolute;
+    left: 130px;
+    
 }
 
 /* Features section */
 
 #features {
     padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    
 }
 
 .feature-box {
